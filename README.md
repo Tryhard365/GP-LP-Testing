@@ -43,7 +43,8 @@ This project demonstrates manual QA process:
 - Test design and execution in Jira  
 - Bug reporting and tracking  
 - Use of screenshots for documentation and evidence
-Add link to exported Jira bug report
+Update Jira report link to PDF version
+
 
 
 
