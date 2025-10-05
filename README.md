@@ -13,7 +13,7 @@ My task was to perform end-to-end functional testing to ensure the stability and
 
 ### 🧾 Test Summary
 - Created **~18 test cases** in Jira
-- 📄 [View exported Jira bug report (PDF)](./jira-reports/gp-lp-bug-reports.pdf)
+- 📄 [⬇️ Download exported Jira bug report (PDF)](https://github.com/Tryhard365/gp-lp-testing/raw/main/jira-reports/gp-lp-bug-reports.pdf)
 - Covered areas: Registration & Onboarding, KYC, Subscription, Fund creation & management, Investor management for GP, Dashboards for Gp and Lp, My investment for Gp & Lp, Reports  
 - Logged **60+ bugs**, each linked to parent test cases in Jira  
 - Test execution tracked with Jira workflows (To Do → In Progress → Done)
@@ -41,7 +41,8 @@ This project demonstrates manual QA process:
 - Test design and execution in Jira  
 - Bug reporting and tracking  
 - Use of screenshots for documentation and evidence
-Fix PDF link formatting
+Fix PDF link to use direct download
+
 
 
 
