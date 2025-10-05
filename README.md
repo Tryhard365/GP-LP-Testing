@@ -7,15 +7,16 @@
 ---
 
 ### 📋 Project Overview
-The GP & LP platform allows General Partners and Limited Partners to manage investment dashboards, reports, and permissions.  
+The GP & LP platform allows General Partners and Limited Partners to manage investment dashboards, reports, and KYC.  
 My task was to perform end-to-end functional testing to ensure the stability and usability of the web app.
 
 ---
 
 ### 🧾 Test Summary
-- Created **~18 test cases** in Jira  
-- Covered areas: Login, Dashboard, Permissions, Reporting  
-- Logged **10+ bugs**, each linked to parent test cases in Jira  
+- Created **~18 test cases** in Jira
+- 📄 [View exported Jira bug report](./jira-reports/gp-lp-bug-reports.doc)
+- Covered areas: Registration & Onboarding, KYC, Subscription, Fund creation & management, Investor management for GP, Dashboards for Gp and Lp, My investment for Gp & Lp, Reports  
+- Logged **60+ bugs**, each linked to parent test cases in Jira  
 - Test execution tracked with Jira workflows (To Do → In Progress → Done)
 
 ---
@@ -23,9 +24,9 @@ My task was to perform end-to-end functional testing to ensure the stability and
 ### 🪲 Sample Bugs (from Jira)
 | Bug ID | Parent Test | Summary | Status |
 |--------|--------------|----------|---------|
-| BUG-101 | Verify login with valid credentials | Login fails on Safari | Closed |
-| BUG-103 | Verify report download works | PDF export broken | Open |
-| BUG-105 | Verify permissions for limited users | Access control issue | Resolved |
+| BUG-48 | Investor Mangement GP |Remove Investor option missing  |  Closed  |
+| BUG-46 | Investor Management GP| Add Investor not functional    |  Open    |
+| BUG-39 | Fund Creation & Management GP| Fund Creation- 500 Error|  Resolved|
 
 ---
 
@@ -42,6 +43,7 @@ This project demonstrates manual QA process:
 - Test design and execution in Jira  
 - Bug reporting and tracking  
 - Use of screenshots for documentation and evidence
+Add link to exported Jira bug report
 
 
 
