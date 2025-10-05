@@ -10,7 +10,6 @@
 The GP & LP platform allows General Partners and Limited Partners to manage investment dashboards, reports, and KYC.  
 My task was to perform end-to-end functional testing to ensure the stability and usability of the web app.
 
----
 
 ### 🧾 Test Summary
 - Created **~18 test cases** in Jira
@@ -19,7 +18,6 @@ My task was to perform end-to-end functional testing to ensure the stability and
 - Logged **60+ bugs**, each linked to parent test cases in Jira  
 - Test execution tracked with Jira workflows (To Do → In Progress → Done)
 
----
 
 ### 🪲 Sample Bugs (from Jira)
 | Bug ID | Parent Test | Summary | Status |
@@ -43,7 +41,8 @@ This project demonstrates manual QA process:
 - Test design and execution in Jira  
 - Bug reporting and tracking  
 - Use of screenshots for documentation and evidence
-Update Jira report link to PDF version
+Fix PDF link formatting
+
 
 
 
